@@ -1,11 +1,8 @@
-# Unlocking Superconductor Potential: Predicting Critical Temperatures with Multiple Regression
+# unlocking-superconductor-potential-predicting-critical-temperatures-with-multiple-regression
 
-The project aims to create a regression model to predict the Critical Temperature (Tc) of different superconducting materials.
+**Tech Stack:** ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
-Guiding questions:​
-
-- What factors are the most accurate for predicting a given material's Critical Temperature (Tc)?​
-- Can we use the measured properties of a given material to predict its Critical Temperature (Tc)?​
+Develops a regression model to predict superconductors’ critical temperature (Tc), identifying key material properties that influence Tc and evaluating their predictive power.
 
 Model Development Process:
 
