@@ -1,4 +1,4 @@
-# unlocking-superconductor-potential-predicting-critical-temperatures-with-multiple-regression
+# Unlocking Superconductor Potential: Predicting Critical Temperatures with Multiple Regression
 
 **Tech Stack:** ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
